@@ -79,14 +79,14 @@ export default class App extends Component {
           Wild Magic!
         </Navbar.Brand>
       </Navbar>
-        <section>
+        <section id="main">
 
             <WildSurge
                generateRandomSurge={this.generateRandomSurge}
                chooseSource={this.chooseSource}
                surge={this.state}
             />
-          
+
         </section>
           <Navbar fixed="bottom" bg="dark" variant='dark'>
                 <Container>
