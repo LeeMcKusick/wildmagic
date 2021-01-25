@@ -22,8 +22,8 @@ export default function WildSurge(props) {
               <Form.Control as='select' onChange={(evt) => { chooseSource(evt.target.value) }}>
                 <option value="phbSurges">Player's Handbook Wild Magic Sorcerer Table</option>
                 <option value="tcoeBarbarian">Tasha's Couldron of Everything - Path of Wild Magic Barbarian</option>
-                <option value="uad100WildMagicTable">Homebrew - Extended Wild Magic Table - /u/Ptyalin</option>
-                <option value="homebrewPathOfWildMagic">Homebrew - Path of Wild Magic</option>
+                <option value="uad100WildMagicTable">Homebrew - Extended d100 Wild Magic Table - /u/Ptyalin</option>
+                <option value="homebrewPathOfWildMagic">Homebrew - d13 Path of Wild Magic Barbarian</option>
               </Form.Control>
             </Col>
           </Row>
