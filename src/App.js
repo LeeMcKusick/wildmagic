@@ -80,13 +80,13 @@ export default class App extends Component {
         </Navbar.Brand>
       </Navbar>
         <section>
-          <h1>
+
             <WildSurge
                generateRandomSurge={this.generateRandomSurge}
                chooseSource={this.chooseSource}
                surge={this.state}
             />
-          </h1>
+          
         </section>
           <Navbar fixed="bottom" bg="dark" variant='dark'>
                 <Container>
