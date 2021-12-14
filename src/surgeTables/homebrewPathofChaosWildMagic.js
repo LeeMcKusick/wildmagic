@@ -1,4 +1,4 @@
-const homebrewd100PathofWildMagic = [
+const homebrewPathofChaosWildMagic = [
   "You explode, casting Fireball as a 3rd-level spell centered on yourself. You are set on fire as a result of this explosion and take 1d6 Fire damage at the start of each of you turns and your weapon attacks deal fire damage until your Rage ends.",
   "Acid spews from your pores.  Each creature in that area must make a Dexterity saving throw, taking 2d8 acid damage on a failed save, or half as much damage on a successful one. Until your rage ends, you can use this effect again on each of your turns as a bonus action.",
   "Your gravitational pull shifts. Each creature within 40 feet of you must make a Strength saving throw, or be pulled 10 feet toward you.",
@@ -21,4 +21,4 @@ const homebrewd100PathofWildMagic = [
   "Spectral wings emanate from your back. Until your rage ends, you can a fly speed of 30 feet. If you already have a fly speed, it is increased by 30 feet."
 ]
 
-export default homebrewd100PathofWildMagic;
+export default homebrewPathofChaosWildMagic;
