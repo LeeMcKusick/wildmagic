@@ -7,6 +7,7 @@ import tcoeBarbarian from './surgeTables/tcoeBarbarian';
 import uad100WildMagicTable from './surgeTables/uad100WildMagicTable';
 import homebrewPathOfWildMagic from './surgeTables/homebrewPathOfWildMagic';
 import ravenloft from './surgeTables/ravenloft.js';
+import homebrewPathofChaosWildMagic from './surgeTables/homebrewPathofChaosWildMagic.js';
 
 import WildSurge from './components/WildSurge';
 import Navbar from 'react-bootstrap/Navbar';
