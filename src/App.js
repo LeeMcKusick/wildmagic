@@ -8,6 +8,7 @@ import uad100WildMagicTable from './surgeTables/uad100WildMagicTable';
 import homebrewPathOfWildMagic from './surgeTables/homebrewPathOfWildMagic';
 import ravenloft from './surgeTables/ravenloft.js';
 import homebrewPathofChaosWildMagic from './surgeTables/homebrewPathofChaosWildMagic.js';
+import d100pyromancy from './surgeTables/d100pyromancy.js';
 
 import WildSurge from './components/WildSurge';
 import Navbar from 'react-bootstrap/Navbar';
@@ -31,7 +32,8 @@ export default class App extends Component {
     "homebrewPathOfWildMagic": homebrewPathOfWildMagic,
     "uad100WildMagicTable": uad100WildMagicTable,
     "homebrewPathofChaosWildMagic": homebrewPathofChaosWildMagic,
-    "ravenloft": ravenloft
+    "ravenloft": ravenloft,
+    "d100pyromancy": d100pyromancy
   }
 
   roll = (max) => {
