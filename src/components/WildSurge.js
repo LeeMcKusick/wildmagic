@@ -43,6 +43,7 @@ export default function WildSurge(props) {
                 <option value="d100pyromancy">&nbsp;&nbsp;Homebrew - Pyromancy - /u/GoblinSupplements</option>
                 <option value="d100cryomancy">&nbsp;&nbsp;Homebrew - Cryomancy - /u/GoblinSupplements</option>
                 <option value="d100feyblood">&nbsp;&nbsp;Homebrew - Feyblood - /u/GoblinSupplements</option>
+                <option value="allInOne">&nbsp;&nbsp;Homebrew - All In One - (Extended d100, Pyro, Cryo, and Fey)</option>
                 <option value="ravenloft">&nbsp;&nbsp;Homebrew - 50 Ravenloft / Horror Surges</option>
                 <option disabled>Barbarian</option>
                 <option value="tcoeBarbarian">&nbsp;&nbsp;Tasha's Couldron of Everything - Path of Wild Magic Barbarian</option>

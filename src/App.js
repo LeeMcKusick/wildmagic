@@ -9,6 +9,7 @@ import ravenloft from './surgeTables/sorcerer/ravenloft';
 import d100pyromancy from './surgeTables/sorcerer/d100pyromancy';
 import d100cryomancy from './surgeTables/sorcerer/d100cryomancy';
 import d100feyblood from './surgeTables/sorcerer/d100feyblood';
+import allInOne from './surgeTables/sorcerer/allInOne';
 
 //Barbarian
 import tcoeBarbarian from './surgeTables/barbarian/tcoeBarbarian';
@@ -40,7 +41,8 @@ export default class App extends Component {
     "ravenloft": ravenloft,
     "d100pyromancy": d100pyromancy,
     "d100cryomancy": d100cryomancy,
-    "d100feyblood": d100feyblood
+    "d100feyblood": d100feyblood,
+    "allInOne": allInOne
   }
 
   roll = (max) => {
