@@ -41,6 +41,8 @@ export default function WildSurge(props) {
                 <option value="phbSurges">&nbsp;&nbsp;Player's Handbook Wild Magic Sorcerer Table</option>
                 <option value="uad100WildMagicTable">&nbsp;&nbsp;Homebrew - Extended d100 Wild Magic Sorcerer Table - /u/Ptyalin</option>
                 <option value="d100pyromancy">&nbsp;&nbsp;Homebrew - Pyromancy - /u/GoblinSupplements</option>
+                <option value="d100cryomancy">&nbsp;&nbsp;Homebrew - Cryomancy - /u/GoblinSupplements</option>
+                <option value="d100feyblood">&nbsp;&nbsp;Homebrew - Feyblood - /u/GoblinSupplements</option>
                 <option value="ravenloft">&nbsp;&nbsp;Homebrew - 50 Ravenloft / Horror Surges</option>
                 <option disabled>Barbarian</option>
                 <option value="tcoeBarbarian">&nbsp;&nbsp;Tasha's Couldron of Everything - Path of Wild Magic Barbarian</option>
