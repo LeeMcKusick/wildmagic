@@ -47,7 +47,7 @@ export default function WildSurge(props) {
                 <option value="ravenloft">&nbsp;&nbsp;Homebrew - 50 Ravenloft / Horror Surges</option>
                 <option disabled>Barbarian</option>
                 <option value="tcoeBarbarian">&nbsp;&nbsp;Tasha's Couldron of Everything - Path of Wild Magic Barbarian</option>
-                <option value="homebrewPathOfWildMagic">&nbsp;&nbsp; Homebrew - d13 Path of Wild Magic Barbarian</option>
+                <option value="homebrewPathOfWildMagic">&nbsp;&nbsp;Homebrew - d13 Path of Wild Magic Barbarian</option>
                 <option value="homebrewPathofChaosWildMagic">&nbsp;&nbsp;Homebrew - d20 Path of Chaotic Wild Magic Barbarian</option>
 
               </Form.Control>

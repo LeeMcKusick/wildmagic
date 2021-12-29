@@ -37,7 +37,7 @@ const d100feyblood = [
   "You encase yourself in an orb of glass. While inside, you have total cover from all attacks and spell effects. You can use your action to push against the sphere’s walls and thus roll the sphere at up to half your movement speed. The sphere has an AC of 10, and 5 hit points. The effect ends when the sphere is destroyed.",
   "An extra finger grows on one of your hands. While you have this extra finger, you have advantage on all Sleight of Hand checks and disadvantage on all Persuasion checks. A remove curse spell can end this effect. ",
   "You turn into a tree. While in this form, you have 10 hit points, an AC of 16 and have resistance to all damage, except Fire and Necrotic damage. You have vulnerability to these damage types instead. You are incapacitated while in this form. After 1 hour, or if you drop to 0 hit points you revert back.",
-  "You become cursed with lycanthropy. If you are already a lycanthrope, you are cured of the effect.",
+  "You swear that all plants are laughing loudly at you for the next 1d4 hours.",
   "Suction cups appear on your hands and feet. You are affected by the Spider Climb spell for the next hour.",
   "A weapon of your choice within 30 feet of you becomes infused with elemental magic. Roll a d6. (1-Acid, 2-Cold, 3-Fire, 4-Lightning, 5-Poison, 6-Thunder). The weapon is infused for the next hour.",
   "Your hair becomes a bird's nest. An angry bird inhabits this nest for the next hour.",
