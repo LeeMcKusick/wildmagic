@@ -1,14 +1,17 @@
 import React, { Component } from 'react';
 
-//import logo from './logo.svg';
 import './App.css';
-import phbSurges from './surgeTables/phbWildMagicTable';
-import tcoeBarbarian from './surgeTables/tcoeBarbarian';
-import uad100WildMagicTable from './surgeTables/uad100WildMagicTable';
-import homebrewPathOfWildMagic from './surgeTables/homebrewPathOfWildMagic';
-import ravenloft from './surgeTables/ravenloft.js';
-import homebrewPathofChaosWildMagic from './surgeTables/homebrewPathofChaosWildMagic.js';
-import d100pyromancy from './surgeTables/d100pyromancy.js';
+
+//Sorcerer
+import phbSurges from './surgeTables/sorcerer/phbWildMagicTable';
+import uad100WildMagicTable from './surgeTables/sorcerer/uad100WildMagicTable';
+import ravenloft from './surgeTables/sorcerer/ravenloft';
+import d100pyromancy from './surgeTables/sorcerer/d100pyromancy';
+
+//Barbarian
+import tcoeBarbarian from './surgeTables/barbarian/tcoeBarbarian';
+import homebrewPathOfWildMagic from './surgeTables/barbarian/homebrewPathOfWildMagic';
+import homebrewPathofChaosWildMagic from './surgeTables/barbarian/homebrewPathofChaosWildMagic';
 
 import WildSurge from './components/WildSurge';
 import Navbar from 'react-bootstrap/Navbar';
