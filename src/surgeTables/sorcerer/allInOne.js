@@ -1,4 +1,4 @@
-const uad100WildMagicTable = [
+const allInOne = [
   "Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.",
   "Immediately roll twice on this table.",
   "For the next minute, you can see any invisible creature if you have line of sight to it.",
@@ -251,4 +251,4 @@ const uad100WildMagicTable = [
   "Roll twice on this table and resolve both effects."
 ]
 
-export default uad100WildMagicTable;
+export default allInOne;
